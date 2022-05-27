@@ -100,7 +100,7 @@
 /* New Task */
 .add-section__title {
   display: block;
-  margin: 0 0 20px;
+  margin: 16px 0 20px;
 }
 
 .task-add__input {
